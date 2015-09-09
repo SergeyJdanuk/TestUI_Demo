@@ -1,0 +1,8 @@
+node_modules/*
+.idea
+npm-debug.log
+srv-conf/logs/*
+dist/*
+docs
+cgi-bin/proxy_lurk.sh
+app/jsx/combined.js
